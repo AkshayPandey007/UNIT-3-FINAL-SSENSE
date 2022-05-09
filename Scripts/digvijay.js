@@ -1,3 +1,3 @@
-import navbar from "./footer.js"
+import footer from "./footer.js"
 
-document.getElementById("navbar").innerHTML = navbar()
+document.getElementById("footer").innerHTML = footer()

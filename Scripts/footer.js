@@ -1,4 +1,4 @@
-function navbar() {
+function footer() {
     return `
     <div id="nav">
     <h3>
@@ -38,4 +38,4 @@ function navbar() {
     `
 }
 
-export default navbar
+export default footer

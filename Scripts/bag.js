@@ -90,7 +90,7 @@ document.getElementById("btn").addEventListener("click",function(){
 })
 function removeFun(el,i) {
     womendata.splice(i, 1);
-    localStorage.setItem("products", JSON.stringify(womendata));
+    localStorage.setItem("bagproducts", JSON.stringify(womendata));
     window.location.reload();
 
 }
