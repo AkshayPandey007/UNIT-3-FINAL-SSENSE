@@ -54,7 +54,7 @@ SEENSE PROJECT
 ![order](https://user-images.githubusercontent.com/101665005/185610018-6603cbab-dd72-4dd2-8b78-f8eedd55fa55.png)
  
 
-#How to contribute
+# How to contribute
 - create your branch with your name from master
 - add, commit and push changes to your branch
 - create pull request
